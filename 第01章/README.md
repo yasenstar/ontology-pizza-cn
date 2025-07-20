@@ -6,6 +6,12 @@
 
 如果你对Protégé、OWL(Web Ontology Language)或相关插件有某些通用的问题，你可以发邮件给Protégé和Web Protégé的用户支持电子邮件列表。在这个列表中有很多人（其中就包括教程的作者）在持续关注并贡献相关的知识以帮助你在这个领域内不断的理解。你可以通过 https://protege.stanford.edu/support/php 来进行列表的订阅。
 
+## 许可证
+
+本文档基于的原始英文版本使用“[Creative Commons Attribution-ShareAlike 4.0 International Public License](https://creativecommons.org/licenses/by-sa/4.0/deed.en)”
+
+本中文文档和本仓库使用“[GNU GENERAL PUBLIC LICENSE, version 3.0](../LICENSE)”
+
 ---
 
 [<button type="button">第02章»</button>](../第02章/README.md)
