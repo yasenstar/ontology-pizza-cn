@@ -26,7 +26,7 @@ OWL本体是由描述逻辑(Description Logic - DL)来实现的，DL是一阶逻
 
 https://www.michaeldebellis.com/post/owl-theoretical-basics
 
-这里是[本地版本](Partee%20et%20al.pdf)
+这里是[Overview of Set Theory节选的本地版本](Partee%20et%20al.pdf)
 
 ---
 
