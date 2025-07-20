@@ -3,7 +3,7 @@
 <node TEXT="披萨本体" FOLDED="false" ID="ID_1090958577" CREATED="1606664858024" MODIFIED="1752992131591" VGAP_QUANTITY="3 pt">
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <hook NAME="MapStyle" background="#fbf1c7ff">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" fit_to_viewport="false" show_icons="BESIDE_NODES" associatedTemplateLocation="template:/light_gruvbox_template.mm" show_tags="UNDER_NODES"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_tags="UNDER_NODES" show_note_icons="true" associatedTemplateLocation="template:/light_gruvbox_template.mm" fit_to_viewport="false" show_icons="BESIDE_NODES"/>
     <tags category_separator="::"/>
 
 <map_styles>
@@ -92,7 +92,7 @@
 <node TEXT="第九章 查询：描述逻辑和SPARQL" POSITION="bottom_or_right" ID="ID_378742182" CREATED="1752992434455" MODIFIED="1752992458002"/>
 <node TEXT="第十章 SWRL和SQWRL" POSITION="bottom_or_right" ID="ID_1676479310" CREATED="1752992458166" MODIFIED="1752992470346"/>
 <node TEXT="第十一章 SHACL" POSITION="bottom_or_right" ID="ID_1648900568" CREATED="1752992471076" MODIFIED="1752992484625"/>
-<node TEXT="第十二章 网络在新版Protégé" POSITION="bottom_or_right" ID="ID_1441779102" CREATED="1752992485527" MODIFIED="1752992519099"/>
+<node TEXT="第十二章 网络在线版Protégé" POSITION="bottom_or_right" ID="ID_1441779102" CREATED="1752992485527" MODIFIED="1753012993771"/>
 <node TEXT="第十三章 结论：一些作者个人观点" POSITION="bottom_or_right" ID="ID_1293818191" CREATED="1752992528631" MODIFIED="1752992560627"/>
 <node TEXT="第十四章 Bibliography" POSITION="bottom_or_right" ID="ID_1745959777" CREATED="1752992561311" MODIFIED="1752992585175"/>
 </node>
