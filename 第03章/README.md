@@ -28,6 +28,37 @@ https://www.michaeldebellis.com/post/owl-theoretical-basics
 
 这里是[Overview of Set Theory节选的本地版本](Partee%20et%20al.pdf)
 
+### 3.1.1 个体 (Individual)
+
+个体表示所感兴趣领域的对象们。
+
+OWL相比较于大多数编程和知识表示语言的一个很重要的不同点，是OWL不使用唯一名字假设 (Unique Name Assumption - UNA)，这意味着在OWL中允许两个不同的名字指向同一个个体。
+
+举个例子，“伊丽莎白女王 (Queen Elizabeth)”、“女王 (The Queen)”和“伊丽莎白·温莎 (Elizabeth Windsor)”可以（可能）全都指向同一个特定的人（个体）。
+
+在OWL中，要求必须显性地指明多个个体是相同的，或者互相是不同的。
+
+在这个文档中，约定使用空心菱形来表示个体。
+
+下图3.1表示了一个领域中的若干个体，包括人、国家和关系。
+
+![Figure3-1](img/Figure3-1.png)
+
+<div align="center">Figure 3.1: Representation of Individuals</div>
+
+> [!NOTE]
+> 个体也被成为实例，并被表示为类的实例。
+
+### 3.1.2 属性 (Property)
+
+
+
+![Figure3-2](img/Figure3-2.png)
+
+<div align="center">Figure 3.2: Representation of Properties</div>
+
+### 3.1.3 类 (Class)
+
 ---
 
 [<button type="button">«第02章</button>](../第02章/README.md) [<button type="button">第04章»</button>](../第04章/README.md)
