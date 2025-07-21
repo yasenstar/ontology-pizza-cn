@@ -4,7 +4,7 @@
 
 你可以在这里找到作者Michael DeBellis针对新版pizza.owl教程的推文：[New Protégé Pizza Tutorial](https://www.michaeldebellis.com/post/new-protege-pizza-tutorial)
 
-2023年，我有幸研读《Pizza Tutorial》这一教程。在学习过程中，我将各个建模步骤精心录制，制作成系列视频。起初，这些视频被发布于YouTube平台供众人分享。
+2023年，我有幸研读《Pizza Tutorial》这一教程。在学习过程中，我将各个建模步骤精心录制，制作成系列视频。起初，这些视频被发布于YouTube平台供众人分享（[YouTube播放列表](https://www.youtube.com/playlist?list=PL6DEHvciXKeUx4P32B3hKMK1t6mC8RhsW)）。
 
 时光荏苒，两年的岁月悄然流逝，这些视频累计收获了超五万次的观看量。同时，我也收到众多观众朋友提出的问题。鉴于此，我陆陆续续地将这些视频发布到其他平台，以飨更多的朋友，如下：
 
