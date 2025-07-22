@@ -2,7 +2,7 @@
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <node TEXT="披萨本体" FOLDED="false" ID="ID_1090958577" CREATED="1606664858024" MODIFIED="1752992131591" VGAP_QUANTITY="3 pt">
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
-<hook NAME="MapStyle" background="#fbf1c7ff">
+<hook NAME="MapStyle" background="#fbf1c7ff" zoom="2.357948">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_tags="UNDER_NODES" show_note_icons="true" associatedTemplateLocation="template:/light_gruvbox_template.mm" fit_to_viewport="false" show_icons="BESIDE_NODES"/>
     <tags category_separator="::"/>
 
@@ -81,19 +81,19 @@
 </stylenode>
 </map_styles>
 </hook>
-<node TEXT="第一章 简介" POSITION="bottom_or_right" ID="ID_754902259" CREATED="1752992186191" MODIFIED="1752992200481"/>
-<node TEXT="第二章 需求与Protégé用户界面" POSITION="bottom_or_right" ID="ID_707222394" CREATED="1752992200823" MODIFIED="1752992526003"/>
-<node TEXT="第三章 什么是OWL本体？" POSITION="bottom_or_right" ID="ID_56767859" CREATED="1752992216256" MODIFIED="1752992237091"/>
-<node TEXT="第四章 建立一个OWL本体" POSITION="bottom_or_right" ID="ID_1555429769" CREATED="1752992237543" MODIFIED="1752992254927"/>
-<node TEXT="第五章 数据类型属性" POSITION="bottom_or_right" ID="ID_1047518978" CREATED="1752992255087" MODIFIED="1752992267410"/>
-<node TEXT="第六章 添加排序到一个枚举类" POSITION="bottom_or_right" ID="ID_30518366" CREATED="1752992267847" MODIFIED="1752992310691"/>
-<node TEXT="第七章 名称：IRI&apos;s，标签和名字空间" POSITION="bottom_or_right" ID="ID_1199519211" CREATED="1752992311109" MODIFIED="1752992367682"/>
 <node TEXT="第八章 包含若干实例的更大的本体" POSITION="bottom_or_right" ID="ID_708827854" CREATED="1752992368464" MODIFIED="1752992434178"/>
 <node TEXT="第九章 查询：描述逻辑和SPARQL" POSITION="bottom_or_right" ID="ID_378742182" CREATED="1752992434455" MODIFIED="1752992458002"/>
 <node TEXT="第十章 SWRL和SQWRL" POSITION="bottom_or_right" ID="ID_1676479310" CREATED="1752992458166" MODIFIED="1752992470346"/>
 <node TEXT="第十一章 SHACL" POSITION="bottom_or_right" ID="ID_1648900568" CREATED="1752992471076" MODIFIED="1752992484625"/>
 <node TEXT="第十二章 网络在线版Protégé" POSITION="bottom_or_right" ID="ID_1441779102" CREATED="1752992485527" MODIFIED="1753012993771"/>
 <node TEXT="第十三章 结论：一些作者个人观点" POSITION="bottom_or_right" ID="ID_1293818191" CREATED="1752992528631" MODIFIED="1752992560627"/>
-<node TEXT="第十四章 Bibliography" POSITION="bottom_or_right" ID="ID_1745959777" CREATED="1752992561311" MODIFIED="1752992585175"/>
+<node TEXT="第十四章 参考文献" POSITION="bottom_or_right" ID="ID_1745959777" CREATED="1752992561311" MODIFIED="1753066809585"/>
+<node TEXT="第一章 简介" POSITION="top_or_left" ID="ID_754902259" CREATED="1752992186191" MODIFIED="1752992200481"/>
+<node TEXT="第二章 需求与Protégé用户界面" POSITION="top_or_left" ID="ID_707222394" CREATED="1752992200823" MODIFIED="1752992526003"/>
+<node TEXT="第三章 什么是OWL本体？" POSITION="top_or_left" ID="ID_56767859" CREATED="1752992216256" MODIFIED="1752992237091"/>
+<node TEXT="第四章 建立一个OWL本体" POSITION="top_or_left" ID="ID_1555429769" CREATED="1752992237543" MODIFIED="1752992254927"/>
+<node TEXT="第五章 数据类型属性" POSITION="top_or_left" ID="ID_1047518978" CREATED="1752992255087" MODIFIED="1752992267410"/>
+<node TEXT="第六章 添加排序到一个枚举类" POSITION="top_or_left" ID="ID_30518366" CREATED="1752992267847" MODIFIED="1752992310691"/>
+<node TEXT="第七章 名称：IRI&apos;s，标签和名字空间" POSITION="top_or_left" ID="ID_1199519211" CREATED="1752992311109" MODIFIED="1752992367682"/>
 </node>
 </map>
