@@ -59,6 +59,11 @@ OWL相比较于大多数编程和知识表示语言的一个很重要的不同�
 
 ### 3.1.3 类 (Class)
 
+
+![Figure3-3](img/Figure3-3.png)
+
+<div align="center">Figure 3.3: Representation of Classes containing Individuals</div>
+
 ---
 
 [<button type="button">«第02章</button>](../第02章/README.md) [<button type="button">第04章»</button>](../第04章/README.md)
