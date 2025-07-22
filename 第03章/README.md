@@ -44,25 +44,37 @@ OWL相比较于大多数编程和知识表示语言的一个很重要的不同�
 
 ![Figure3-1](img/Figure3-1.png)
 
-<div align="center">Figure 3.1: Representation of Individuals</div>
+<div align="center">图3.1: 个体表示 (Representation of Individuals)</div>
 
 > [!NOTE]
 > 个体也被成为实例，并被表示为类的实例。
 
 ### 3.1.2 属性 (Property)
 
+属性是在个体之间的二元关系，两个个体通过属性连接在一起。如下图3.2/3.3所示，属性`hasFriend`把个体`Biswanath`连接到个体`Michael`，属性`hasChild`把个体`Michael`连接到个体`Oriana`。
 
+属性可以定义对应的逆属性。例如，属性`hasChild`的逆属性是`hasParent`。
+
+属性可以通过定义来限制只能具有单值，例如，成为函数型(functional)属性。属性也可以是可传递的或对称的。这些有关属性的特征将在后续4.8章节中详细介绍。
 
 ![Figure3-2](img/Figure3-2.png)
 
-<div align="center">Figure 3.2: Representation of Properties</div>
+<div align="center">图3.2: 属性表示 (Representation of Properties)</div>
+
+> [!NOTE]
+> 本体OWL中的属性类似于面向对象编程(OOP)中的属性的概念。然而，要注意到它们之间也具有重要的不同点。其中最为重要的不同是OWL中的属性是独立于类存在的一级实体。OOP的开发者可以参考文档：https://www.w3.org/2001/sw/BestPractices/SE/ODSD/ (本地下载在这里：[A Semantic Web Primer for Object-Oriented Software Developers](../docs/A%20Semantic%20Web%20Primer%20for%20Object-Oriented%20Software%20Developers.pdf))。
 
 ### 3.1.3 类 (Class)
 
+OWL中的类是包含个体的集合。类的描述使用对类成员的需求进行了严格(rigorously)定义的正式（数学上）的描述。例如，类`cat(猫)`应该包含在我们感兴趣的领域中的所有可以认为是猫的个体。类可以被组织成为一种超类(superclass)-子类(subclass)的层次结构，也被成为分类法(texonomy)。分类法常常以树(trees)的形式出现，即每个节点都仅有一个父节点，然而，OWL中的类的层级结构没有树的限制，从而可以从直观的(intuitive)角度来表示多重继承结构。
+
+子类专门化(即`are subsumed by`)它们的父类。例如，考虑`Animal(动物)`类和`Dog(犬)`类 -- 犬类可以是动物类的一个子类（所以动物类就是犬类的一个父类）。这也就是意味着 `All dogs are animals (所有的犬都是动物)，All members of the class Dog are members of the class Animal (所有犬类的的成员都是动物类的成员)`。OWL和Protégé提供了一种成为描述逻辑(Description Logic, DL)的语言。DL的一个主要的特性就是这些超类-子类关系(包容关系 subsumption relationship)能够被推理机自动的计算。下面的图3.3显示的是对包含若干个体的类的表示 -- 类用大椭圆形来表示，像是韦恩图 (Venn diagrams) 中的集合。
+
+在OWL的类中，可以通过描述特定的约束以使其中的个体成员要满足的条件得以满足。后续会逐步进行展开描述。
 
 ![Figure3-3](img/Figure3-3.png)
 
-<div align="center">Figure 3.3: Representation of Classes containing Individuals</div>
+<div align="center">图3.3: 包含个体的类的表示 (Representation of Classes containing Individuals)</div>
 
 ---
 
